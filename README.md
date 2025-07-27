@@ -25,8 +25,17 @@ Design an interactive and insightful dashboard that:
 - Tracks year-over-year trends and seasonal patterns
 - Identifies top-performing categories and sub-categories
 - Provides actionable insights for business strategy
+  
+  --
+## Dashboard Visuals
 
----
+**Page 1**  
+![Sales Dashboard Page 1](https://github.com/data-wizard-AKP/SalesEdge-Real-Time-Sales-Forecasting-Power-BI-Dashboard/blob/main/Project_Base/Sales%20Dashboard%20by%20Arun.jpg)
+
+**Page 2** 
+
+![Sales Dashboard Page 2](https://github.com/data-wizard-AKP/SalesEdge-Real-Time-Sales-Forecasting-Power-BI-Dashboard/blob/main/Project_Base/Sales%20Dashboard%20by%20Arun%20Page-2.jpg)
+
 
 ## 💡 Solution
 
